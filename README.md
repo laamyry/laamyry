@@ -2,7 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=laamyry&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
@@ -11,7 +10,6 @@
                 <b><a target="_blank" href="https://laamyry.com">Med Laamyry</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -46,8 +44,9 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 <p>
 <img align="right" width="350" src="./programmer.gif" alt="Coding gif" />
 
@@ -57,7 +56,6 @@
 🎥 &emsp; Experienced in Video Editing<br/><br/>
 📧 &emsp; Reach me anytime: contact@medlaamyry.com<br/><br/>
 💬 &emsp; Ask me about anything [here](https://github.com/laamyry/laamyry/issues)
-
 
 </p>
 
@@ -86,10 +84,10 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-
 <br/>
 
 ## Top Open Source -
+
 [![HomeMingle](https://github-readme-stats.vercel.app/api/pin/?username=laamyry&repo=HomeMingle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/laamyry/HomeMingle)
 [![alx-react](https://github-readme-stats.vercel.app/api/pin/?username=laamyry&repo=alx-react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/laamyry/alx-react)
 [![Landing_page](https://github-readme-stats.vercel.app/api/pin/?username=laamyry&repo=Landing_page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/laamyry/web-projects)
@@ -120,6 +118,5 @@
   <a href="https://github.com/laamyry"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laamyry&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=laamyry&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
